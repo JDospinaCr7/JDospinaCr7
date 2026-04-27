@@ -1,153 +1,97 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Juan Ospina - Portafolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0f172a;
-      color: #fff;
-    }
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+ <br/>
 
-    .container {
-      width: 90%;
-      max-width: 1100px;
-      margin: auto;
-      text-align: center;
-    }
+# <div align="center">Soy JUAN OSPINA, Analisis y desarrollador de software 👨‍💻 🚀</div>  
+  <br/>
 
-    .banner img {
-      width: 100%;
-      height: 300px;
-      object-fit: cover;
-    }
+- 🔭 Actualmente estoy estudiando en el SENA centro manufactura textil y cuero.
+Tecnologo: Analisis y Desarrollo de software.
+  
 
-    h1 {
-      margin-top: 20px;
-      font-size: 32px;
-    }
+- ❓ Pregúntame lo que quieras sobre Javascript, ccs, html
 
-    .info {
-      margin: 20px 0;
-      line-height: 1.6;
-    }
+  
 
-    .skills {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      margin-top: 30px;
-    }
+- ⚡ Dato curioso: Soy fatatico a los videojuegos, me gusta escuchar musica, y me gusta aprender cosas nuevas. 
+  
 
-    .card {
-      background: #1e293b;
-      width: 30%;
-      min-width: 250px;
-      padding: 20px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
+<br/>  
 
-    .card h3 {
-      margin-bottom: 15px;
-      color: #38bdf8;
-    }
 
-    .icons img {
-      width: 50px;
-      margin: 10px;
-    }
 
-    .social a {
-      display: inline-block;
-      margin: 10px;
-      padding: 10px 15px;
-      background: #1e293b;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      transition: 0.3s;
-    }
+## Mis habilidades 👩‍💻
 
-    .social a:hover {
-      background: #38bdf8;
-    }
 
-    .contact {
-      margin-top: 20px;
-      line-height: 1.8;
-    }
+<table><tr><td valign="top" width="33%">
 
-    footer {
-      margin-top: 30px;
-      padding: 10px;
-      background: #020617;
-      font-size: 14px;
-    }
-  </style>
-</head>
-<body>
 
-  <div class="banner">
-    <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
-  </div>
 
-  <div class="container">
-    <h1>Soy Juan Ospina 👨‍💻 🚀</h1>
+### Frontend  
+   
+<div align="center">  
 
-    <div class="info">
-      <p>🔭 Actualmente estoy estudiando en el SENA centro manufactura textil y cuero.</p>
-      <p>Tecnólogo en Análisis y Desarrollo de Software.</p>
-      <p>❓ Pregúntame sobre JavaScript, CSS y HTML</p>
-      <p>⚡ Dato curioso: Fanático de los videojuegos, la música y aprender cosas nuevas.</p>
-    </div>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
 
-    <h2>Mis habilidades 👩‍💻</h2>
+</td><td valign="top" width="33%">
 
-    <div class="skills">
-      <div class="card">
-        <h3>Frontend</h3>
-        <div class="icons">
-          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg">
-          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg">
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg">
-        </div>
-      </div>
 
-      <div class="card">
-        <h3>Backend</h3>
-        <div class="icons">
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg">
-        </div>
-      </div>
 
-      <div class="card">
-        <h3>DevOps</h3>
-        <div class="icons">
-          <img src="https://profilinator.rishav.dev/skills-assets/firebase.png">
-        </div>
-      </div>
-    </div>
+### Backend
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+ 
+</div>
 
-    <h2>Conecta conmigo 🚀</h2>
+</td><td valign="top" width="33%">
 
-    <div class="social">
-      <a href="https://github.com/JDospinaCr7" target="_blank">GitHub</a>
-      <a href="#" target="_blank">Facebook</a>
-      <a href="https://instagram.com/ospina18.06" target="_blank">Instagram</a>
-    </div>
 
-    <div class="contact">
-      <p>📞 57 + 3202884703</p>
-      <p>📧 ospinavillalobosjuandavid170@gmail.com</p>
-    </div>
-  </div>
 
-  <footer>
-    Última edición: 27/04/2026
-  </footer>
+### DevOps  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+</div>
+</td></tr></table>  
+<div align="center">
+</div>  
 
-</body>
-</html>
+
+
+## Conecta conmigo 🚀
+
+<div align="center">
+<a href="https://github.com/JDospinaCr7" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Juan Ospina" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ospina18.06" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+
+
+<div align="center">Otros Contactos: </div> 
+
+<br/>
+
+- 📞 57 + 3202884703
+
+- ospinavillalobosjuandavid170@gmail.com
+<br/>  
+
+ 
+
+
+
+
+Last Edited on: 27/04/2026
+
